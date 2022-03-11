@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - prints out aand that piece of art is useful
+ * main - display and that piece of art is useful" - Dora Korpar, 2015-10-19
  * Return :1
  */
 
