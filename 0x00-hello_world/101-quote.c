@@ -1,7 +1,8 @@
 #include <unistd.h>
-/*
-This program prints the folling quote using write function
-*/
+/**
+ * main - prints out aand that piece of art is useful
+ * Return :1
+ */
 
 int main(void)
 {

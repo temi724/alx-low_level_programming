@@ -1,8 +1,8 @@
 #include <stdio.h>
-
-/*
-This program prints the siize of each data types
-*/
+/**
+ * main -prints out the size of each data types
+ * Return : 0
+ */
 
 int main(void)
 {

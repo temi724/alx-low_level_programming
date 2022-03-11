@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/*
-This program uses printf to display information on the console
-*/
+/**
+ * main - prints out with propper grammer, but the outcome is a piece of art
+ * Return :0
+ */
 
 int main(void)
 {
